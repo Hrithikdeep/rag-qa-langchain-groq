@@ -1,0 +1,14 @@
+
+
+
+venv/
+.env
+__pycache__/
+*.pt
+*.pkl
+*.db
+.DS_Store
+vectorstore/
+
+
+
